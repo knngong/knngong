@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @knngong
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Big data technologies
+- 👀 I’m interested in Data Engineering and AI
+- 🌱 I’m currently learning Big Data technologies
 - 💞️ I’m looking to collaborate on enriching coding projects
-- 📫 How to reach me: you can reach me by using my github username
+- 📫 How to reach me: you can reach me by using my GitHub username
 - 😄 Pronouns: ...None
 - ⚡ Fun fact: ...Bowling is the game
 
